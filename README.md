@@ -1,3 +1,3 @@
 # auth.go 
 
-A simple authentication serer written in Go.
+A simple authentication server written in Go.
